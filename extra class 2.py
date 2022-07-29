@@ -1,0 +1,1 @@
+x=int(input("enter a number beteen 1 to 7"))
