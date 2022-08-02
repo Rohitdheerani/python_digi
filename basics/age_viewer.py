@@ -1,3 +1,3 @@
 age=input("enter ur age:")
-age=int(age)
+age=int(2)
 print(type(age))

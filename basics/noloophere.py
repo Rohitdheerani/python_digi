@@ -98,10 +98,3 @@ print(97)
 print(98)
 print(99)
 print(100)
-
-
-
-
-
-
-
