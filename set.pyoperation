@@ -1,0 +1,41 @@
+A = {1,2,3,4,5}
+B = {6,7,8,9,10}
+
+print (A|B)
+
+print (A.union(B))
+#using union function
+
+print(B.union(A))
+
+print (A&B)
+
+A.intersection(B)
+print(A.intersection)
+
+# - operator on B
+(B-A)
+
+A.symmetric_difference(B)
+{1,2,3,4,5,6}
+
+x = {2,3,4,7}
+y = {2,3,4,7,6,5,8}
+
+print (x.issubset(y))
+z = {3,5,8,10,11}
+
+print(x.issubset(z))
+
+a = {11,12,13}
+
+print (a.isdisjoint(y))
+
+x = [2,3,4,5,6,7]
+x5 = set(x)
+
+x1 = list(set(x))
+
+print(x)
+print(x5)
+print[xl]
